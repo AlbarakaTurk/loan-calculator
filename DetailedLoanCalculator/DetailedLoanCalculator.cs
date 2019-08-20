@@ -9,6 +9,7 @@ namespace Albaraka.Utils.Calculator.LoanCalculator
 {
     /// <summary>
     /// Detailed loan calculator.
+    /// oGGe
     /// </summary>
     public class DetailedLoanCalculator
     {
